@@ -3,6 +3,6 @@ import "./styles/global.css"
  
 export default function App() {
   return (
-    <Redirect href="/screens/teste/index" />
+    <Redirect href="/screens/teste" />
   );
 }
